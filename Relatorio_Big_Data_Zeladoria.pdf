@@ -1758,11 +1758,12 @@ endobj
 >>
 /Type /Page
 /Parent 2 0 R
+/Annots [ 57 0 R ]
 >>
 endobj
 48 0 obj
 <<
-/Length 6352
+/Length 6345
 >>
 stream
 q
@@ -2116,13 +2117,13 @@ BT
 13 TL
 /F1 9.2 Tf
 0.141176 0.196078 0.278431 rg
-(Reposit\363rio p\372blico da equipe\072 ) Tj
+(Link da entrega\072 ) Tj
 0 0.545098 0.596078 rg
-(pasta de entrega na branch entrega\055bigdata) Tj
+(https\072\057\057github\056com\057Zoviskgabriel\057BigData\055Data\055Zeladoria\055Urbana\055por\055Foto) Tj
 0.141176 0.196078 0.278431 rg
-(\056 O README da pasta) Tj
+() Tj
 T*
-(cont\351m os comandos do Compose e do pipeline\056 Os logs e sa\355das fornecem rastreabilidade para esta execu\347\343o\056) Tj
+(README\054 c\363digo\054 dicion\341rio e evid\352ncias est\343o organizados neste reposit\363rio\056) Tj
 T*
 ET
 Q
@@ -2310,8 +2311,21 @@ endobj
 /Producer (pypdf)
 >>
 endobj
+57 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 118 288 410 304 ]
+/Border [ 0.0 0.0 0.0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057github\056com\057Zoviskgabriel\057BigData\055Data\055Zeladoria\055Urbana\055por\055Foto)
+>>
+/P 47 0 R
+>>
+endobj
 xref
-0 57
+0 58
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
@@ -2360,21 +2374,22 @@ xref
 0000022017 00000 n 
 0000022219 00000 n 
 0000028057 00000 n 
-0000028258 00000 n 
-0000034663 00000 n 
-0000034929 00000 n 
-0000035813 00000 n 
-0000035857 00000 n 
-0000035965 00000 n 
-0000036078 00000 n 
-0000091695 00000 n 
-0000092330 00000 n 
+0000028277 00000 n 
+0000034675 00000 n 
+0000034941 00000 n 
+0000035825 00000 n 
+0000035869 00000 n 
+0000035977 00000 n 
+0000036090 00000 n 
+0000091707 00000 n 
+0000092342 00000 n 
+0000092382 00000 n 
 trailer
 <<
-/Size 57
+/Size 58
 /Root 1 0 R
 /Info 56 0 R
 >>
 startxref
-92370
+92621
 %%EOF
